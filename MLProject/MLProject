@@ -20,10 +20,4 @@ entry_points:
       max_features:
         type: str
         default: "log2"
-    command: >
-      python modelling.py
-        --n_estimators {n_estimators}
-        --max_depth {max_depth}
-        --min_samples_split {min_samples_split}
-        --min_samples_leaf {min_samples_leaf}
-        --max_features {max_features}
+    command: "python modelling.py --n_estimators {n_estimators} --max_depth {max_depth} --min_samples_split {min_samples_split} --min_samples_leaf {min_samples_leaf} --max_features {max_features}"
