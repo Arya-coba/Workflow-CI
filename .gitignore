@@ -1,0 +1,8 @@
+@"
+*.csv
+*.pkl
+.venv/
+__pycache__/
+mlruns/
+mlartifacts/
+"@ | Out-File -FilePath .gitignore -Encoding utf8

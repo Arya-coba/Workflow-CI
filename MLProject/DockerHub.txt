@@ -1,0 +1,5 @@
+Docker Hub Repository:
+https://hub.docker.com/r/arya9696/creditcard-fraud-detection
+
+Pull image:
+docker pull arya9696/creditcard-fraud-detection:latest
