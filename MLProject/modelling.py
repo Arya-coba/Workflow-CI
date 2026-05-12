@@ -1,10 +1,3 @@
-"""
-modelling.py — MLProject version (FIXED)
-==========================================
-Training Credit Card Fraud Detection untuk MLflow Project.
-Kompatibel dengan mlflow run command.
-"""
-
 import os
 import pickle
 import argparse
