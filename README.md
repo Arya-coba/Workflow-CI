@@ -1,8 +1,6 @@
 # Workflow-CI
 ## Credit Card Fraud Detection — CI/CD Pipeline
 
-> Submission Proyek Akhir: Membangun Sistem Machine Learning (Kriteria 3)
-
 ---
 
 ## 📁 Struktur Repository
